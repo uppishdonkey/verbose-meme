@@ -1,1 +1,4 @@
-# Note Taker Starter Code
+# Module 11 Challenge
+
+## Description
+When the user is given a note-taking application, then the user opens the Note Taker. Then, the user is presented with a landing page with a link to a notes page. When the user clicks, on the link to the notes page, then the user is presented with a page with existing notes listed in the left-hand column, plus empty fields to enter. When the uer enters a new note title and the note's text, then a Save icon appears in the navigation at the top of the page. When the user clicks on the Save icon, then the new note the user has entered is saved and appears in the left-hand colun with the other existing notes. When the user clicks on an existing note in the list in the left-hand column, then that note appears in the right-hand column. When the user clicks on the Write icon in the navigation at the top of the page, then the user is presented with empty fields to enter a new note title and the note's ext in the right-hand column.
